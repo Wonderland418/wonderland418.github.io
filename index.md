@@ -29,7 +29,7 @@ Care for a cup of Oriental Beauty — sweet enough to make you forget your name�
 
 來杯東方美人茶嗎？
 
-ORCID: [https://orcid.org/0009-0001-6375-1915](#)  
+ORCID: [https://orcid.org/0009-0001-6375-1915](https://orcid.org/0009-0001-6375-1915)  
 Email: wonderland418@gmail.com  
 Alt: wonderland418@proton.me 
 
