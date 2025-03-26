@@ -1,0 +1,24 @@
+body {
+  background-color: #F3A9A9;
+  font-family: Georgia, serif;
+  color: #2e2e2e;
+  padding: 2rem;
+  line-height: 1.8;
+}
+
+a {
+  color: #5a0c28;
+  text-decoration: none;
+  border-bottom: 1px dashed #5a0c28;
+}
+
+a:hover {
+  color: #000000;
+  border-bottom: 1px solid #000000;
+}
+
+img {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
