@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: none
 title: Wonderland418
 ---
 <link rel="stylesheet" href="/assets/css/style.css">
@@ -8,6 +8,7 @@ title: Wonderland418
   <img src="./23667A09-410E-4D62-8EB3-4ED507B3A6ED (1).jpg" width="160" style="border-radius: 50%"><br>
 </p>
 
+<div style = "text-align: center">
 # Wonderland418
 
 > *A sip of the universe.*  
@@ -52,3 +53,4 @@ Alt: wonderland418@proton.me
 > I brew thoughts slowly.  
 > If you'd like to help keep the kettle warm —  
 > *406 for the coffee of Mad Hatter.*
+</div>
