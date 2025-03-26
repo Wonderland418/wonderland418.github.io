@@ -1,8 +1,3 @@
----
-layout: default
-title: Wonderland418
----
-
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <p align="center">
