@@ -15,7 +15,7 @@ Floating between physics and poetry,
 wondering between logic and longing,  
 in rhythm with order, in the silence of entropy.
 
-Care for a cup of Oriental Beauty—sweet enough to make you forget your name？
+Care for a cup of Oriental Beauty — sweet enough to make you forget your name？
 
 生於千禧曼波的藍色時代，在時鐘歸零之年。  
 漂浮於物理與詩意之中，夢遊於邏輯與渴望之間,  
@@ -40,8 +40,8 @@ Alt: wonderland418@proton.me
 ## Support My Tea Leaves
 
 > I brew thoughts slowly.  
-> If you'd like to help keep the kettle warm:  
-> The donate link will update soon.
+> If you'd like to help keep the kettle warm —  
+> wait for the water to simmer.
 
 ---
 
