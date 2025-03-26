@@ -37,7 +37,7 @@ title: Wonderland418
     來杯東方美人茶嗎？<br>
    </p>
 
-   <h2>Contect me</h2>
+   <h2>Contact me</h2>
    <dl>
      <dt><a href = "https://orcid.org/0009-0001-6375-1915">ORCID</a></dt>
      <dt>Email：wonderland418@gmail.com</dt>  
