@@ -9,48 +9,57 @@ title: Wonderland418
 </p>
 
 <div style = "text-align: center">
-# Wonderland418
+  <h1> Wonderland418</h1>
 
-> *A sip of the universe.*  
-> *A drop of dreams.*  
-> *A tea that thinks.*  
-> *A me that murmurs.*
-
----
-
-## About Me
-
-Born in the blue age of Millennium Mambo, 
-in the year the clocks reset.  
-Floating between physics and poetry, 
-wondering between logic and longing,  
-in rhythm with order, in the silence of entropy.
-
-Care for a cup of Oriental Beauty — sweet enough to make you forget your name？
-
-生於千禧曼波的藍色時代，在時鐘歸零之年。  
-漂浮於物理與詩意之中，夢遊於邏輯與渴望之間,  
-共振於秩序之中，淡泊於熵值之間。
-
-來杯東方美人茶嗎？
-
-ORCID: [https://orcid.org/0009-0001-6375-1915](https://orcid.org/0009-0001-6375-1915)  
-Email: wonderland418@gmail.com  
-Alt: wonderland418@proton.me 
+  <em>
+    A sip of the universe.<br>
+    A drop of dreams.<br>
+    A tea that thinks.<br>
+    A me that murmurs.
+  </em>
 
 ---
 
-## Where to Find Me
+  <h2>About Me</h2>
+  <p>
+  Born in the blue age of Millennium Mambo, <br>
+  in the year the clocks reset.  <br>
+  Floating between physics and poetry, <br>
+  wondering between logic and longing,  <br>
+  in rhythm with order, in the silence of entropy.<br>
+  <br>
+  Care for a cup of Oriental Beauty — sweet enough to make you forget your name？
+  </p>
+  <br>
+  <p>
+    生於千禧曼波的藍色時代，在時鐘歸零之年。<br> 
+    漂浮於物理與詩意之中，夢遊於邏輯與渴望之間, <br> 
+    共振於秩序之中，淡泊於熵值之間。<br>
+    <br>
+    來杯東方美人茶嗎？<br>
+   </p>
 
+   <p>
+   ORCID: [https://orcid.org/0009-0001-6375-1915](https://orcid.org/0009-0001-6375-1915)  
+   Email: wonderland418@gmail.com  
+   Alt: wonderland418@proton.me 
+   </p>
+
+---
+
+  <h2>Where to Find Me</h2>
+  <em>
 - [GitHub](https://github.com/wonderland418)
 - [Medium](https://medium.com/@Wonderland418)
 - Reddit: u/Wonderland418
+  </em>
 
 ---
 
-## Support My Tea Leaves
-
-> I brew thoughts slowly.  
-> If you'd like to help keep the kettle warm —  
-> *406 for the coffee of Mad Hatter.*
+ <h2>Support My Tea Leaves</h2>
+  <em>
+    I brew thoughts slowly.  <br>
+    If you'd like to help keep the kettle warm —  <br>
+    *406 for the coffee of Mad Hatter.* <br>
+  </em>
 </div>
