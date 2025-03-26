@@ -1,3 +1,10 @@
+---
+layout: default
+title: Wonderland418
+---
+
+<link rel="stylesheet" href="/assets/css/style.css">
+
 <p align="center">
   <img src="./23667A09-410E-4D62-8EB3-4ED507B3A6ED (1).jpg" width="160" style="border-radius: 50%"><br>
 </p>
