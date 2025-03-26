@@ -41,8 +41,4 @@ Alt: wonderland418@proton.me
 
 > I brew thoughts slowly.  
 > If you'd like to help keep the kettle warm —  
-> wait for the water to simmer.
-
----
-
- *406 for the coffee of Mad Hatter.*
+> *406 for the coffee of Mad Hatter.*
