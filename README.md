@@ -44,4 +44,5 @@ Alt: wonderland418@proton.me
 > wait for the water to simmer.
 
 ---
-* 406 for the coffee of Mad Hatter*
+
+- *406 for the coffee of Mad Hatter.*
