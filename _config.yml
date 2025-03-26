@@ -1,0 +1,9 @@
+title: Wonderland418
+description: A tea that thinks. A me that murmurs.
+theme: minima
+
+# 自訂 CSS
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/minimal@v0.2.0
