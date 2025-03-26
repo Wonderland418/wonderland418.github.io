@@ -40,15 +40,15 @@ title: Wonderland418
    <h2>Contect me</h2>
    <dl>
      <dt><a href = "https://orcid.org/0009-0001-6375-1915">ORCID</a></dt>
-     <dt>Email</dt><dd>wonderland418@gmail.com</dd>  
-     <dt>Alt</dt><dd>wonderland418@proton.me</dd>
+     <dt>Email：wonderland418@gmail.com</dt>  
+     <dt>Alt：wonderland418@proton.me</dt>
    </dl>
 
   <h2>Where to Find Me</h2>
   <dl>
     <dt><a  href = "https://githucom/wonderland418">GitHub</a></dt>
     <dt><a  href = "https://medium.com/@Wonderland418">Medium</a></dt>
-    <dt>Reddit:</dt><dd>u/Wonderland418</dd>
+    <dt>Reddit:u/Wonderland418</dt>
   </dl>
 
  <h2>Support My Tea Leaves</h2>
