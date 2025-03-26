@@ -1,6 +1,6 @@
 # Wonderland418
 
-> *A sip of the universe.*  .
+> *A sip of the universe.*  
 > *A drop of dreams.*  
 > *A tea that thinks.*  
 > *A me that murmurs.*
