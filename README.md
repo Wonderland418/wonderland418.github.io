@@ -1,45 +1,22 @@
-<img src="https://github.com/wonderland418/wonderland418.github.io/blob/main/23667A09-410E-4D62-8EB3-4ED507B3A6ED (1).jpg?raw=true" width="180" style="border-radius: 50%"><br>
-# Wonderland418
+# wonderland418.github.io
 
-> *A sip of the universe.*  
-> *A drop of dreams.*  
-> *A tea that thinks.*  
-> *A me that murmurs.*
+This repository powers the official website of **Wonderland418**:  
+**[https://wonderland418.github.io](https://wonderland418.github.io)**
 
----
-
-## About Me
-
-Born in the blue age of Millennium Mambo, 
-in the year the clocks reset.  
-Floating between physics and poetry, 
-wondering between logic and longing,  
-in rhythm with order, in the silence of entropy.
-
-Care for a cup of Oriental Beauty — sweet enough to make you forget your name？
-
-生於千禧曼波的藍色時代，在時鐘歸零之年。  
-漂浮於物理與詩意之中，夢遊於邏輯與渴望之間,  
-共振於秩序之中，淡泊於熵值之間。
-
-來杯東方美人茶嗎？
-
-ORCID: [https://orcid.org/0009-0001-6375-1915](#)  
-Email: wonderland418@gmail.com  
-Alt: wonderland418@proton.me 
+A space for poetic errors, philosophical murmurs, and ideas still steeping.  
+Built with GitHub Pages, Markdown, and a gentle teapot.
 
 ---
 
-## Where to Find Me
+## Site Structure
 
-- [GitHub](https://github.com/wonderland418)
-- [Medium](https://medium.com/@Wonderland418)
-- Reddit: u/Wonderland418
+- `/index.md` — Home page  
+- `/notes/` — Notes and sketches (coming soon)  
+- `/research/` — Research fragments  
+- `/support/` — Contact & donation page  
+- `/404.html` — Error page with a twist
 
 ---
 
-## Support My Tea Leaves
-
-> I brew thoughts slowly.  
-> If you'd like to help keep the kettle warm —  
-> *406 for the coffee of Mad Hatter.*
+> `418 — I'm a teapot.`  
+> `Built for those who never asked for coffee.`
